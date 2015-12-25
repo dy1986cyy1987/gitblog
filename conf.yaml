@@ -1,0 +1,30 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: http://tools.ccjpp.xyz
+title: 小鱼没有眼泪
+subtitle: 做个留心的人，记录下编程的点滴
+theme: simple
+enableCache: true
+highlight: true
+mathjax: false
+duoshuo:
+baiduAnalytics:
+keywords: 小鱼没有眼泪,编程点滴,PHP_MarkDown笔记
+description: >
+    小鱼没有眼泪，站起来继续战斗
+version: 2.2
+author:
+    name: yicheng20110203
+    email: yicheng20110203@gmail.com
+    github: https://github.com/dy1986cyy1987
+    weibo: none
+    avatar:
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: 小鱼没有眼泪
+    intro: >
+          作为一个PHP编程人员，我不认为PHP是最好的语言，但是在中国要想成为一个合格的PHP程序员，我需要知道的知识远远不只是PHP代码。小鱼没有眼泪，老骥伏枥，志在千里！

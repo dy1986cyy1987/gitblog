@@ -1,0 +1,6 @@
+ERROR - 2015-12-24 17:57:46 --> Severity: error --> Exception: Function name must be a string /webapp/tools/gitblog/app/third_party/parsedown/Parsedown.php 1415
+ERROR - 2015-12-24 17:57:52 --> Severity: error --> Exception: Function name must be a string /webapp/tools/gitblog/app/third_party/parsedown/Parsedown.php 1415
+ERROR - 2015-12-24 17:58:10 --> Severity: error --> Exception: Function name must be a string /webapp/tools/gitblog/app/third_party/parsedown/Parsedown.php 1415
+ERROR - 2015-12-24 18:04:00 --> Severity: error --> Exception: Function name must be a string /webapp/tools/gitblog/app/third_party/parsedown/Parsedown.php 1415
+ERROR - 2015-12-24 18:04:01 --> Severity: error --> Exception: Function name must be a string /webapp/tools/gitblog/app/third_party/parsedown/Parsedown.php 1415
+ERROR - 2015-12-24 18:31:34 --> Severity: error --> Exception: Function name must be a string /webapp/tools/gitblog/app/third_party/parsedown/Parsedown.php 1415
